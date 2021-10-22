@@ -45,7 +45,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeprana12&show_icons=true&locale=en&theme=cobalt" alt="deeprana12" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeprana12&theme=dracula" alt="deeprana12" /></p>
 
-<h2 align="center">My contribution</h2>
+<h2 align="center">My contributions :</h2>
 <img src="https://user-images.githubusercontent.com/69518599/138339181-4eec7180-f4a9-4834-903b-0c00f0d2623a.png"/>
 
 <h2 align="center"> Can't live without Music❤️</h2>
