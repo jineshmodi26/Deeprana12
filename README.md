@@ -4,18 +4,19 @@
 <p align="right"><img align="right" border_radius="25%" width="400px" height="450px" alt="githubemoji"src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966"/></p>
 
 <br>
-<p align="left"> <p align="left">About me😎  :</p>
-<p align="left"> - 🔭 I’m currently working on MERN stack project </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeprana12&label=Profile%20views&color=0e75b6&style=flat" alt="deeprana12" /> </p>
 
-<p align="left"> - 🌱 I’m currently learning MERN Stack </p>
+- 🔭 I’m currently working on **MERN stack project.**
 
-<p align="left"> - 👯 I’m looking to collaborate on Web development </p>
+- 🌱 I’m currently learning **MERN Stack.**
 
-<p align="left"> - 📫 How to reach me deeprana12357@gmail.com </p></p>
+- 👯 I’m looking to collaborate on **Web development.**
 
+- 📫 How to reach me **deeprana12357@gmail.com**
 
+- 📄 Know about my experiences [https://bit.ly/3o0tLSz](https://bit.ly/3o0tLSz)
 
-
+- ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <br>
 
