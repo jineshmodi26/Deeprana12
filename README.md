@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **deeprana12357@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3o0tLSz](https://bit.ly/3o0tLSz)
+- 📄 Checkout my resume [https://bit.ly/3o0tLSz](https://bit.ly/3o0tLSz)
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact **(()) is not a palindrome but )(() is**
 
 <br>
 
